@@ -10,7 +10,7 @@ import menu8 from "../../../Gallery/menu8.webp";
 // import menu9 from "../../../Gallery/menu9.jpeg";
 // import menu10 from "../../../Gallery/menu10.jpeg";
 // import menu11 from "../../../Gallery/menu11.jpeg";
-import "./menu.css";
+import "./Menu.css";
 import Food from "../../../Gallery/Food3.png"
 
 
