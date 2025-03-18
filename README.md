@@ -74,7 +74,7 @@ Navigate into project folder:
 cd investwise npm install npm start npm run build
 
 Key Notes:
-Live Demo: Replace https://finance-and-investment.vercel.app/.
+Live Demo: https://resturant-ten-zeta.vercel.app/
 Installation Steps: Clear instructions on how to install dependencies, run the development server, and build the project.
 Credits: Proper attribution for images and icons.
 
