@@ -1,81 +1,78 @@
-🚀 Foodie
-Foodie is a modern, customer-centric restaurant landing page designed to showcase the essence of fine dining and deliver an exceptional online experience. From mouthwatering menu highlights to seamless table reservations, Foodie connects food lovers with the best culinary experiences. Whether you're looking to explore our menu, book a table, or learn about our story, Foodie is your gateway to unforgettable dining.
+# Foodie - Restaurant Website
 
-🔥 Key Features of Foodie:
-✅ Stunning Visual Design.
-✅ User-Friendly Navigation.
-✅ Menu Showcase.
-✅ Customer Testimonials.
-✅ Special Offers & Promotions.
-✅ Responsive Design.
-✅ Interactive Elements.
-✅ Contact & Location Details.
-✅ Reservation.
+## Project Overview
+**Foodie** is a modern and elegant restaurant website designed to showcase fine dining experiences, menus, promotions, and reservations. The website allows customers to explore dishes, learn about chefs, and make reservations effortlessly.
 
-🏆 Why Choose Foodie?
-Customer-Centric Design:
+### Live Link
+[Foodie Live Website](https://resturant-ten-zeta.vercel.app/)
 
-Every element is crafted to meet customer needs, from easy reservations to showcasing the best dishes.
+### GitHub Repository
+[Git Clone Link](https://github.com/MohimaModak/Resturant.git)
 
-Seamless Experience:
+---
+## Features
+- **Home Page:** Engaging introduction to the restaurant experience.
+- **Menu:** Displays all available dishes.
+- **Highlights:** Showcases the most attractive and popular dishes.
+- **Chef Section:** Introduces the expert chefs behind the cuisine.
+- **Testimonials:** Displays customer satisfaction and reviews.
+- **Gallery:** A collection of food images from the restaurant.
+- **Promotions:** Highlights special offers and discounts.
+- **Reservation System:** Enables users to book a table online.
+- **Contact Page:** Allows customers to reach out with inquiries.
+- **Footer:** Provides quick navigation and additional information.
 
-Intuitive navigation and fast loading times ensure a smooth user journey.
+---
+## Installation Guide
+Follow these steps to set up the project on your local machine:
 
-Builds Trust & Credibility:
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/MohimaModak/Resturant.git
+   ```
+2. **Navigate to the project folder:**
+   ```sh
+   cd Resturant
+   ```
+3. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+4. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+5. **Open in the browser:**
+   The website will be available at `http://localhost:3000/`.
 
-Testimonials, high-quality visuals, and a professional layout establish trust with visitors.
+---
+## Deployment Guide
+To deploy this project on **Vercel**, follow these steps:
 
-Drives Engagement & Conversions:
+1. Install Vercel CLI (if not installed):
+   ```sh
+   npm install -g vercel
+   ```
+2. Login to Vercel:
+   ```sh
+   vercel login
+   ```
+3. Deploy the project:
+   ```sh
+   vercel
+   ```
+4. Follow the on-screen instructions to complete the deployment.
 
-Clear CTAs, special offers, and a focus on user experience encourage bookings and orders.
+---
+## Contact
+For any inquiries, please reach out to **Mohima Modak** at:
+📧 Email: mmodak550@gmail.com
 
-Modern & Professional:
+---
+## Tech Stack
+- **Frontend:** React.js, Tailwind CSS
+- **Build Tool:** Vite.js
+- **Deployment:** Vercel
 
-A sleek, contemporary design that reflects the quality of your restaurant.
+This documentation provides all the necessary details for setting up, using, and deploying the **Foodie** project. Let me know if you need any modifications! 🚀
 
-Customizable & Scalable:
-
-Easily update content, add new dishes, or integrate additional features as your restaurant grows.
-
-📌 ## Tech Stack
-Frontend: React.js, Tailwind CSS
-**Icons**: **Flat Icon**
-### **Images**: **Pexels**
-Videos: **Pexels**
-**Font**: **Google Font**
-**Tools**: Vite (for fast builds), React Router, and more.
-
-## Credits
-
-### **Icons**
-- **Tabler Icons**: Icons used in this project are from [Tabler Icons](https://tabler-icons.io), a free and open-source icon library.
-
-### **Images**
-- **Pixabay**: Images used in this project are sourced from [Pixabay](https://pixabay.com), a free stock photo and video website.
-- **Storyset**: Illustrations used in this project are from [Storyset](https://storyset.com), a free library of customizable illustrations.
-
-### **Fonts**
-- **Google Fonts**: Fonts used in this project are from [Google Fonts](https://fonts.google.com).
-
-### **Tools and Libraries**
-- **React.js**: A JavaScript library for building user interfaces. [React](https://reactjs.org).
-- **Tailwind CSS**: A utility-first CSS framework for rapid UI development. [Tailwind CSS](https://tailwindcss.com).
-- **Vite**: A fast build tool for modern web projects. [Vite](https://vitejs.dev).
-- **React Router**: A routing library for React applications. [React Router](https://reactrouter.com).
-
-
-🚀 Installation
-Clone the repository:
-git clone https://github.com/MohimaModak/Resturant.git
-
-This will help users understand how to install, run, and build your project.
-
-Navigate into project folder:
-cd investwise npm install npm start npm run build
-
-Key Notes:
-Live Demo: https://resturant-ten-zeta.vercel.app/
-Installation Steps: Clear instructions on how to install dependencies, run the development server, and build the project.
-Credits: Proper attribution for images and icons.
-
-Foodie is more than just a landing page—it’s a digital extension of your restaurant, designed to attract, engage, and delight your customers. Let’s bring your culinary vision to life!
