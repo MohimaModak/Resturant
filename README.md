@@ -1,4 +1,4 @@
-**Foodie Restaurant Website - Documentation **  
+# Foodie Restaurant Website - Documentation 
 
 ### **Project Overview**  
 Foodie is a modern and elegant restaurant website designed to showcase fine dining experiences, menus, promotions, and reservations. The website allows customers to explore dishes, learn about chefs, and make reservations effortlessly.  
