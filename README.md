@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-
-=======
 # Foodie Restaurant Website - Documentation 
 
 ### **Project Overview**  
@@ -89,4 +86,3 @@ For any inquiries, please reach out to:
 
 ### **Support**
 - If you encounter any issues, feel free to contact us via ThemeForest support page. Thank you for using our template!
->>>>>>> Stashed changes
