@@ -10,7 +10,6 @@ export default function Testimonial() {
     const videoRef = useRef(null);
     const [isPlaying, setIsPlaying] = useState(false);
 
-    // Observer to detect when the video is in view
     useEffect(() => {
         const observer = new IntersectionObserver(
             (entries) => {
