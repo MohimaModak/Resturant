@@ -4,6 +4,10 @@
     cursor: pointer;
   }
   
+  .logo{
+    font-family: 'Times New Roman', Times, serif
+  }
+
   .nav-item {
     text-decoration: none;
     transition: color 0.3s, transform 0.3s;
