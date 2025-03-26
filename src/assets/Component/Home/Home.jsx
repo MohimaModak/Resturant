@@ -86,7 +86,6 @@ export default function Home() {
                 <Promotion></Promotion>
                 <Reservation></Reservation>
                 <Contact></Contact>
-                <Footer></Footer>
             </div>
         </div>
 

@@ -44,6 +44,11 @@ export default function Navbar() {
           <Link to="/Contact" smooth={true} duration={1000} className="text-xl p-4 block" onClick={toggleButton}>
             Contact
           </Link>
+          <div>
+            <a target='_blank' href="https://github.com/MohimaModak/Resturant">
+              <button className='text-xl'>Github & Doc</button>
+            </a>
+          </div>
         </div>
       </div>
 
@@ -56,27 +61,33 @@ export default function Navbar() {
               <h1 className="logo text-4xl font-bold text-orange-600">foodie</h1>
             </div>
             <div className="navbar-links lg:flex justify-center items-center">
-              <Link to="/" smooth={true} duration={1000} className="text-xl mr-5 font-bold">
+              <Link to="/" smooth={true} duration={1000} className="text-xl mr-3 font-bold">
                 Home
               </Link>
-              <Link to="/Menu" smooth={true} duration={1000} className="text-xl mr-5 font-bold">
+              <Link to="/Menu" smooth={true} duration={1000} className="text-xl mr-3 font-bold">
                 Menu
               </Link>
-              <Link to="/Gallery" smooth={true} duration={1000} className="text-xl mr-5 font-bold">
+              <Link to="/Gallery" smooth={true} duration={1000} className="text-xl mr-3 font-bold">
                 Gallery
               </Link>
-              <Link to="/Reservation" smooth={true} duration={1000} className="text-xl mr-5 font-bold">
+              <Link to="/Reservation" smooth={true} duration={1000} className="text-xl mr-3 font-bold">
                 Reservation
               </Link>
-              <Link to="/Promotion" smooth={true} duration={1000} className="text-xl mr-5 font-bold">
+              <Link to="/Promotion" smooth={true} duration={1000} className="text-xl mr-3 font-bold">
                 Promotion
               </Link>
-              <Link to="/Testimonial" smooth={true} duration={1000} className="text-xl mr-5 font-bold">
+              <Link to="/Testimonial" smooth={true} duration={1000} className="text-xl mr-3 font-bold">
                 Testimonials
               </Link>
-              <Link to="/Contact" smooth={true} duration={1000} className="text-xl mr-5 font-bold">
+              <Link to="/Contact" smooth={true} duration={1000} className="text-xl mr-3 font-bold">
                 Contact
               </Link>
+
+              <div>
+                <a target='_blank' href="https://github.com/MohimaModak/Resturant">
+                  <button className='text-xl font-bold inline-block text-center'>Github & Doc</button>
+                </a>
+              </div>
             </div>
           </nav>
         </div>
